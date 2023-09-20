@@ -6,7 +6,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     
     // Periksa CAPTCHA
     $captcha_response = $_POST["g-recaptcha-response"];
-    $secret_key = "6Ld_gDsoAAAAAK2yDq1nWYHq4nEA3purt1zdPnPx"; // Ganti dengan kunci rahasia reCAPTCHA Anda
+    $secret_key = "6LdtCDwoAAAAAKt1_-LAoT_sXP_nEpvILebC2-nd"; // Ganti dengan kunci rahasia reCAPTCHA Anda
     $url = "https://www.google.com/recaptcha/api/siteverify";
     $data = [
         'secret' => $secret_key,

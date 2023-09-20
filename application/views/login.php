@@ -46,7 +46,7 @@
           		</div>
           </div>
 					<div class="input-group mb-3">
-							<div class="g-recaptcha" data-sitekey="6Ld_gDsoAAAAAH17Q2z4doXvkWUF_VZYx0ox8Q7D" required>
+							<div class="g-recaptcha" data-sitekey="6LdtCDwoAAAAADujdsXRuLPzSyZNoAhw8JsqOKve" required>
 							</div>
 					</div>
 
