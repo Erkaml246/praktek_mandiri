@@ -112,7 +112,7 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="welcome_thumb">
                         <div class="thumb_1">
-                            <img src="<?= base_url('aset/') ?>img/about/1.jpg" alt="">
+                            <img src="<?= base_url('aset/') ?>img/about/foto-1.jpg" alt="">
                         </div>
                     </div>
                 </div>
