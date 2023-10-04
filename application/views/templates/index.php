@@ -120,7 +120,7 @@
                     <div class="welcome_docmed_info">
                         <h3>Selamat Datang
                             <span>Praktek Mandiri PakManang</span></h3>
-                        <p>Pelayanan praktek mandiri dokter dapat mencakup berbagai jenis layanan medis yang disediakan oleh seorang dokter di tempat prakteknya sendiri.</p>
+                        <p>Kami dengan bangga menyediakan beragam aspek perawatan kesehatan yang holistik dan personal untuk memenuhi kebutuhan kesehatan Anda. Dalam praktek mandiri kami, Anda dapat mengharapkan:</p>
                         <ul>
                             <li> <i class="flaticon-verified"></i> Menjaga Privasi dan Data </li>
                             <li> <i class="flaticon-verified"></i> Mendukung Pelayanan Kesehatan Primer </li>
